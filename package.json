@@ -1,0 +1,32 @@
+{
+  "name": "@goldix.org/di",
+  "version": "0.0.1",
+  "description": "Dependency injection",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demchenkoe/goldix.org-di.git"
+  },
+  "keywords": [
+    "goldix.org",
+    "di",
+    "dependency",
+    "injection"
+  ],
+  "author": "Eugene Demchenko <demchenkoev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demchenkoe/goldix.org-di/issues"
+  },
+  "homepage": "https://github.com/demchenkoe/goldix.org-di#readme",
+  "dependencies": {
+    "di": "0.0.1",
+    "glob": "^7.1.2"
+  }
+}
